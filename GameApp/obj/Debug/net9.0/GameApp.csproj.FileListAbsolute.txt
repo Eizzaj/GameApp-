@@ -1,0 +1,14 @@
+D:\GameApp\obj\Debug\net9.0\GameApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameApp\obj\Debug\net9.0\GameApp.AssemblyInfoInputs.cache
+D:\GameApp\obj\Debug\net9.0\GameApp.AssemblyInfo.cs
+D:\GameApp\obj\Debug\net9.0\GameApp.csproj.CoreCompileInputs.cache
+D:\GameApp\bin\Debug\net9.0\GameApp.exe
+D:\GameApp\bin\Debug\net9.0\GameApp.deps.json
+D:\GameApp\bin\Debug\net9.0\GameApp.runtimeconfig.json
+D:\GameApp\bin\Debug\net9.0\GameApp.dll
+D:\GameApp\bin\Debug\net9.0\GameApp.pdb
+D:\GameApp\obj\Debug\net9.0\GameApp.dll
+D:\GameApp\obj\Debug\net9.0\refint\GameApp.dll
+D:\GameApp\obj\Debug\net9.0\GameApp.pdb
+D:\GameApp\obj\Debug\net9.0\GameApp.genruntimeconfig.cache
+D:\GameApp\obj\Debug\net9.0\ref\GameApp.dll
